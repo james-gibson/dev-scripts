@@ -4,6 +4,7 @@
 binaries=(
     ant
     kdiff3
+    gnu-tar
     markdown
     mongodb
     node
