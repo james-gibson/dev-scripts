@@ -3,7 +3,6 @@
 # Install other useful binaries
 binaries=(
     ant
-    kdiff3
     gnu-tar
     markdown
     mongodb
