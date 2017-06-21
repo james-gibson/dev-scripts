@@ -6,7 +6,8 @@ apps=(
     alfred
     google-chrome
     firefox
-    flash
+    flash-player
+    kdiff3
     sublime-text3
     virtualbox
     flux
