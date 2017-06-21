@@ -7,14 +7,11 @@ apps=(
     google-chrome
     firefox
     flash
-    iterm2
     sublime-text3
     virtualbox
     flux
     caffeine
     vlc
-    skype
-    qlcolorcode
     sourcetree
     adobe-air
     pandora
@@ -22,6 +19,15 @@ apps=(
     filezilla
     growlnotify
     slack
+    postico
+    keybase
+    postman
+    webstorm
+    tunnelblick
+    spotify
+    steam
+    macdown
+    lastpass
 )
 
 echo "Tapping the latest cask"
