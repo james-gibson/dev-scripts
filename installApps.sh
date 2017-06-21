@@ -46,7 +46,7 @@ mv /Applications/snagit/latest/Snagit.app /Applications
 rm -rf /Applications/snagit
 
 
-'/usr/local/Caskroom/lastpass/latest/LastPass Installer.app'
+open '/usr/local/Caskroom/lastpass/latest/LastPass Installer.app'
 
 brew tap caskroom/fonts
 
