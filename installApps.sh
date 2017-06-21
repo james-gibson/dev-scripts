@@ -29,6 +29,7 @@ apps=(
     steam
     macdown
     lastpass
+    snagit
 )
 
 echo "Tapping the latest cask"
@@ -41,10 +42,11 @@ echo "installing apps..."
 
 brew cask install --appdir="/Applications" ${apps[@]}
 
-brew cask install --caskroom="/Applications" snagit
-
 mv /Applications/snagit/latest/Snagit.app /Applications
 rm -rf /Applications/snagit
+
+
+'/usr/local/Caskroom/lastpass/latest/LastPass Installer.app'
 
 brew tap caskroom/fonts
 
