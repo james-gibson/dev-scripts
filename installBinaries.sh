@@ -10,6 +10,7 @@ binaries=(
     vim
     tmux
     rename
+    ansible
 )
 
 # Install the binaries
