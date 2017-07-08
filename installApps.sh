@@ -30,6 +30,7 @@ apps=(
     macdown
     lastpass
     snagit
+    iterm2
 )
 
 echo "Tapping the latest cask"
