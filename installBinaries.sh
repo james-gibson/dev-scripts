@@ -11,11 +11,15 @@ binaries=(
     tmux
     rename
     ansible
+    docker
 )
 
 # Install the binaries
 brew install ${binaries[@]}
 
+npm install -g electron
+npm install -g electron-builder
+npm install -g electron-packager
 npm install -g eslint #Install our code linter
 npm install -g grunt-cli #install grunt globally
 
